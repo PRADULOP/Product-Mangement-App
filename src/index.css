@@ -1,0 +1,9 @@
+body{
+  background-image: url('https://img.freepik.com/free-photo/composition-black-friday-shopping-cart-with-copy-space_23-2148667046.jpg?t=st=1736582508~exp=1736586108~hmac=14d89878dfa2b42975c61a0a40754509f83c16bb53208ac2a556a98290fef0cb&w=1800');
+  background-size: cover;
+}
+
+.textField{
+  background-color: white;
+  border-radius: 4px;
+}  
